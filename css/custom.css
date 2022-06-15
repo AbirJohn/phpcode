@@ -1,0 +1,77 @@
+/* google font use U */
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+/*----------------------- Navbar css----------- */
+.navbar-brand{
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.navbar  #mymanu .custom-nav .nav-item a {
+        color: #fff;
+}
+
+
+.navbar  #mymanu .custom-nav .nav-item a:hover{
+    color: #f0aab1;
+}
+
+
+
+/* ------------------- Header css  ----------------------- */
+.back-img{
+    background-size:cover;
+    min-height: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 0;
+    margin-top:74px;
+}
+
+.font-italic{
+    font-size: 24px;
+}
+
+.mainHeading{
+    margin-top: 50px;
+}
+
+/* ------------------- Service css  ----------------------- */
+.text h3{
+    font-size: 24px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------------------------media css -------------- */
+@media only  screen and (max-width:600px) {
+    
+}
